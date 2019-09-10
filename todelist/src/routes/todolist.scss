@@ -1,0 +1,15 @@
+.todolist{
+    margin: 200px;
+    text-align: center;
+    .title{
+        line-height: 50px;
+        font-size: 20px;
+        font-weight: bold;
+    }
+    .a{
+        color: red;
+        input{
+            width: 80%;
+        }
+    }
+}
